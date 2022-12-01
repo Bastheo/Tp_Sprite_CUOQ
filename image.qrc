@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sprite">
+        <file>nue.png</file>
+        <file>Mino.png</file>
+        <file>Mino_M.png</file>
+        <file>Mino_M2.png</file>
+        <file>Matthieu.png</file>
+    </qresource>
+</RCC>
